@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpentkClock", "OpentkClock\OpentkClock.csproj", "{14328DE5-C3B1-42A3-90C0-200DA6FBF899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14328DE5-C3B1-42A3-90C0-200DA6FBF899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14328DE5-C3B1-42A3-90C0-200DA6FBF899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14328DE5-C3B1-42A3-90C0-200DA6FBF899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14328DE5-C3B1-42A3-90C0-200DA6FBF899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F6BE755-4BC5-47C3-B8BC-427A3D8AED25}
+	EndGlobalSection
+EndGlobal
