@@ -8,7 +8,9 @@
 
   <ItemGroup>
     <PackageReference Include="OpenTK.Tizen" Version="3.0.2" />
-    <PackageReference Include="SkiaSharp" Version="1.60.3" />
+    <PackageReference Include="SkiaSharp" Version="1.60.3">
+      <ExcludeAssets>Runtime</ExcludeAssets>
+    </PackageReference>
     <PackageReference Include="Tizen.NET" Version="5.0.0.14486" />
     <PackageReference Include="Tizen.NET.Sdk" Version="1.0.1" />
   </ItemGroup>
